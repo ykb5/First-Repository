@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh.
-- 👀 I’m interested in coding programs which makes our work easy.
+- 👀 I’m interested in coding programs which makes our complex tasks easy.
 - 🌱 I’m currently learning Java programming language.
 - 💞️ Yet I'm not looking for any collabration but soon I will be working on Java projects and collaborate.
 - 📫 You can reach through my mail ID - bhattyuvi5@gmail.com
